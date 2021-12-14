@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "age=0": { "model": "block/cactus" },
+		"age=1": { "model": "block/games" }
+    }
+}

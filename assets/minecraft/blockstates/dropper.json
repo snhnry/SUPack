@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "facing\u003ddown": {
+      "model": "block/dropper_vertical",
+      "x": 180
+    },
+    "facing\u003dup": {
+      "model": "block/dropper_vertical_90"
+    },
+    "facing\u003dnorth": {
+      "model": "block/dropper"
+    },
+    "facing\u003dsouth": {
+      "model": "block/dropper",
+      "y": 180
+    },
+    "facing\u003dwest": {
+      "model": "block/dropper",
+      "y": 270
+    },
+    "facing\u003deast": {
+      "model": "block/dropper",
+      "y": 90
+    }
+  }
+}

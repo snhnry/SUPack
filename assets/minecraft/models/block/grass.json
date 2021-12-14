@@ -1,0 +1,49 @@
+{
+	"__comment": "Designed by Snhnry with Cubik Studio - https://cubik.studio",
+	"ambientocclusion": false,
+	"textures": {
+		"cross": "block/grass"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 0.8, 0, 8 ],
+			"to": [ 15.2, 16, 8.0625 ],
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#cross", "tintindex": 0 },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#cross", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 8, 0, 0.8 ],
+			"to": [ 8.0625, 16, 15.2 ],
+			"shade": false,
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#cross", "tintindex": 0 },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#cross", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 2.5, 0, 2.75 ],
+			"to": [ 2.5625, 16, 17.15 ],
+			"rotation": { "origin": [ 2.5, 0, 2.75 ], "axis": "y", "angle": 45 },
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#cross", "tintindex": 0 },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#cross", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 13, 0, 3 ],
+			"to": [ 13.0625, 16, 17.4 ],
+			"rotation": { "origin": [ 13, 0, 3 ], "axis": "y", "angle": -45 },
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#cross", "tintindex": 0 },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#cross", "tintindex": 0 }
+			}
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"credit": "By Snhnry",
+	"textures": {
+		"0": "block/fish1",
+		"2": "block/fish3",
+		"3": "block/fish4",
+		"particle": "block/fish1"
+	},
+	"elements": [
+		{
+			"from": [-16, -16, -16],
+			"to": [32, 32, -16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#2"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [3, 1.25, 0],
+			"scale": [0.13, 0.13, 0.13]
+		},
+		"gui": {
+			"rotation": [0, 180, 0],
+			"scale": [0.28, 0.28, 0.28]
+		},
+		"fixed": {
+			"translation": [0, 0, 48.75],
+			"scale": [2, 2, 2]
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": [{ "model": "block/jungle_planks", "weight": 5 },
+			{ "model": "block/jungle_planks_alt", "weight": 5 },		
+			{ "model": "block/jungle_planks_alt2", "weight": 1 }]
+    }
+}

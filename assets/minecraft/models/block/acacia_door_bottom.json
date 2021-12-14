@@ -1,0 +1,23 @@
+{
+	"__comment": "Designed_by_Snhnry_-_www.tlaminecraft.com",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/cyan_concrete",
+		"bottom": "block/cyan_concrete",
+		"texture": "block/acacia_door_top"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 0, 0, 0 ],
+			"to": [ 3, 16, 32 ],
+			"faces": {
+				"down": { "uv": [ 13, 0, 16, 16 ], "texture": "#texture", "cullface": "down" },
+				"north": { "uv": [ 3, 0, 0, 16 ], "texture": "#texture", "cullface": "north" },
+				"south": { "uv": [ 0, 0, 3, 16 ], "texture": "#texture", "cullface": "south" },
+				"west": { "uv": [ 0, 0, 16, 8.5 ], "texture": "#texture", "cullface": "west", "rotation": 180 },
+				"east": { "uv": [ 0, 0, 16, 8.5 ], "texture": "#texture", "rotation": 180 }
+			}
+		}
+	]
+}

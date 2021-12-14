@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "type=bottom": { "model": "block/oak_slab" },
+        "type=top": [{ "model": "block/oak_slab_top", "weight": 12 },
+					{ "model": "block/oak_slab_top_alt", "weight": 1 }],
+        "type=double": { "model": "block/oak_planks" }
+    }
+}

@@ -1,0 +1,179 @@
+{
+  "__comment": "Designed_by_Snhnry_with_BDcraft_Cubik_PRO_0.95_Beta_-_http://bdcraft.net",
+  "ambientocclusion": false,
+  "textures": {
+    "texture": "item/quartz_ore"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        4
+      ],
+      "to": [
+        16,
+        16,
+        4.0625
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        69,
+        -3,
+        27
+      ],
+      "translation": [
+        0.38,
+        -2.08,
+        0.76
+      ],
+      "scale": [
+        0.94,
+        0.94,
+        0.76
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        69,
+        -3,
+        27
+      ],
+      "translation": [
+        0.38,
+        -2.08,
+        0.76
+      ],
+      "scale": [
+        0.94,
+        0.94,
+        0.76
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        -18.33,
+        0.38
+      ],
+      "scale": [
+        1.32,
+        1.42,
+        1
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        2,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1.13,
+        1.13,
+        0.5
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        3,
+        -4,
+        26
+      ],
+      "translation": [
+        -2.08,
+        1.7,
+        5.29
+      ],
+      "scale": [
+        0.68,
+        0.68,
+        0.68
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        3,
+        -4,
+        26
+      ],
+      "translation": [
+        -2.08,
+        1.7,
+        5.29
+      ],
+      "scale": [
+        0.68,
+        0.68,
+        0.68
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        152,
+        0
+      ],
+      "translation": [
+        0.38,
+        0.38,
+        0
+      ],
+      "scale": [
+        0.88,
+        0.94,
+        0.31
+      ]
+    }
+  }
+}

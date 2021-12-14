@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "stage\u003d0": {
+      "model": "block/birch_sapling"
+    },
+    "stage\u003d1": {
+      "model": "block/birch_sapling"
+    }
+  }
+}

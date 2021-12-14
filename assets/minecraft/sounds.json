@@ -1,0 +1,73 @@
+{
+    "warp.pad": {
+        "sounds": [
+            "su/warppad"
+        ],
+		"subtitle": "subtitles.warp.pad",
+        "category": "player"
+    },
+	"ac.unit": {
+        "sounds": [
+            "su/acunit"
+        ],
+		"subtitle": "subtitles.ac.unit",
+        "category": "ambient",
+		"preload": true
+    },
+	    "sadie.hey": {
+        "sounds": [
+            "su/sadiehey"
+        ],
+		"subtitle": "Sadie: Hey!",
+        "category": "player"
+    },
+	    "sadie.youwant": {
+        "sounds": [
+            "su/sadieyouwant"
+        ],
+		"subtitle": "Sadie: Do you want a donut?",
+        "category": "player"
+    },
+	    "sadie.pick": {
+        "sounds": [
+            "su/sadiepick"
+        ],
+		"subtitle": "Sadie: Take your pick",
+        "category": "player"
+    },
+	    "sadie.welcome": {
+        "sounds": [
+            "su/sadiewelcome"
+        ],
+		"subtitle": "Sadie: Welcome to the Big Donut",
+        "category": "player"
+    },	
+	    "dewey.ohhi": {
+        "sounds": [
+            "su/deweyohhi"
+        ],
+		"subtitle": "Mayor Dewey: Oh hi!",
+        "category": "player"
+    },
+	    "dewey.resident": {
+        "sounds": [
+            "su/deweyresident"
+        ],
+		"subtitle": "Mayor Dewey: Hello, youth resident of Beach City!",
+        "category": "player"
+    },
+	    "dewey.takecare": {
+        "sounds": [
+            "su/deweytakecare"
+        ],
+		"subtitle": "Mayor Dewey: Take care!",
+        "category": "player"
+    },
+	    "dewey.peace": {
+        "sounds": [
+            "su/deweypeace"
+        ],
+		"subtitle": "Mayor Dewey: Peace in the Middle East, homes!",
+        "category": "player"
+    }		
+}

@@ -1,0 +1,30 @@
+{
+	"__comment": "Designed by Snhnry with Cubik Studio - https://cubik.studio",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/pizza",
+		"texture": "block/pizza"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "PlaneX1",
+			"from": [ 15.5, -16, -16 ],
+			"to": [ 15.501, 32, 32 ],
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation":  [ 0, 90, 0 ],
+			"scale":  [ 0.3, 0.3, 0.3 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, 90, 0 ],
+			"translation":  [ 0, 0, 14.607 ],
+			"scale":  [ 2, 2, 2 ]
+		}
+	}
+}

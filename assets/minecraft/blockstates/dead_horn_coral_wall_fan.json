@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=north": [{ "model": "block/thin_white_siding", "weight": 43 },
+						{ "model": "block/thin_white_siding_alt", "weight": 2 }],
+        "facing=south": [{ "model": "block/thin_white_siding", "y": 180, "weight": 43 },
+						{ "model": "block/thin_white_siding_alt", "y": 180, "weight": 2 }],		
+        "facing=west":  [{ "model": "block/thin_white_siding", "y": 270, "weight": 43 },
+						{ "model": "block/thin_white_siding_alt", "y": 270, "weight": 2 }],		
+        "facing=east":  [{ "model": "block/thin_white_siding", "y": 90, "weight": 43 },
+						{ "model": "block/thin_white_siding_alt", "y": 90, "weight": 2 }]		
+    }
+}

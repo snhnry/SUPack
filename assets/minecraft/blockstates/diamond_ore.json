@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "": [{ "model": "block/white_siding", "weight": 43 },		
+			{ "model": "block/white_siding_alt", "weight": 2 }]
+    }
+}

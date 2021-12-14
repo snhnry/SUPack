@@ -1,0 +1,37 @@
+{
+	"__comment": "Designed by Snhnry with Cubik Studio - https://cubik.studio",
+	"parent": "block/block",
+	"textures": {
+		"top": "block/cabinet_side",
+		"front": "block/cabinet_front_alt",
+		"particle": "block/cabinet_front",
+		"texture": "block/lapis_ore"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 14.99213, 14.99213, 0 ], "texture": "#top", "cullface": "down" },
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#front", "cullface": "north" },
+				"south": { "uv": [ 0, 0, 15, 15 ], "texture": "#top", "cullface": "south" },
+				"west": { "uv": [ 0, 14.99213, 14.99213, 0 ], "texture": "#top", "cullface": "west" },
+				"east": { "uv": [ 0, 14.99213, 14.99213, 0 ], "texture": "#top", "cullface": "east" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 0, 16, -1 ],
+			"to": [ 16, 17, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture", "cullface": "down" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture", "cullface": "up" },
+				"north": { "uv": [ 0, 15, 16, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 15, 16, 16 ], "texture": "#texture" },
+				"west": { "uv": [ 0, 15, 16, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 0, 15, 16, 16 ], "texture": "#texture" }
+			}
+		}
+	]
+}

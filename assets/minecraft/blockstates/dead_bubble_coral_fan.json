@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [{ "model": "block/blue_crystal" },
+			{ "model": "block/blue_crystal", "y":90 },
+			{ "model": "block/blue_crystal", "y":180 },
+			{ "model": "block/blue_crystal", "y":270 },
+			{ "model": "block/pink_crystal" }]
+    }
+}

@@ -1,0 +1,47 @@
+{
+	"__comment": "Designed_by_Snhnry_-_www.tlaminecraft.com",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/grass",
+		"cross": "block/sandgrass_tall"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 4.5, 0, 9.375 ],
+			"to": [ 21.5, 32, 9.376 ],
+			"rotation": { "origin": [ 8.125, 8, 13 ], "axis": "y", "angle": 45, "rescale": true },
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 4, 0, 12, 16 ], "texture": "#cross", "tintindex": 0 },
+				"south": { "uv": [ 4, 0, 12, 16 ], "texture": "#cross", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 7.25, 0, 3.75 ],
+			"to": [ 7.251, 32, 20.75 ],
+			"rotation": { "origin": [ 3, 8, 8 ], "axis": "y", "angle": 45, "rescale": true },
+			"shade": false,
+			"faces": {
+				"west": { "uv": [ 4, 0, 12, 16 ], "texture": "#cross", "tintindex": 0 },
+				"east": { "uv": [ 4, 0, 12, 16 ], "texture": "#cross", "tintindex": 0 }
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"rotation":  [ 0, 45, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 0, 45, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"gui": {
+			"rotation":  [ 30, 178, 0 ],
+			"translation":  [ 0.6956, -2.782, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"__comment": "Designed by Snhnry with Cubik Studio - https://cubik.studio",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/beacon",
+		"texture": "block/warp_beam"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "PlaneZ1",
+			"from": [ -16, -16, 16 ],
+			"to": [ 16, 16, 16.001 ],
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		}
+	]
+}

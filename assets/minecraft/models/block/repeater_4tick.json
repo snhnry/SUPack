@@ -1,0 +1,287 @@
+{
+  "__comment": "Designed_by_Snhnry_-_www.tlaminecraft.com",
+  "textures": {
+    "particle": "block/bcpta2",
+    "texture": "block/white_wool",
+    "Sched": "block/bcpta1",
+    "texture1": "block/bcpta2"
+  },
+  "elements": [
+    {
+      "__comment": "Box1",
+      "from": [
+        7.5,
+        -16,
+        7.5
+      ],
+      "to": [
+        8.5,
+        31.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2,
+            1,
+            4,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            2,
+            1,
+            4,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            2,
+            1,
+            4,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            2,
+            1,
+            4,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            2,
+            1,
+            4,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            2,
+            1,
+            4,
+            2
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Box2",
+      "from": [
+        5.5,
+        9,
+        8.5
+      ],
+      "to": [
+        10.5,
+        16,
+        8.626
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.5,
+            7.499,
+            10.5,
+            7.5
+          ],
+          "texture": "#Sched"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            8.5,
+            10.5,
+            8.500999
+          ],
+          "texture": "#Sched"
+        },
+        "north": {
+          "uv": [
+            2.5,
+            0,
+            3,
+            8
+          ],
+          "texture": "#Sched"
+        },
+        "south": {
+          "uv": [
+            3,
+            0,
+            13.5,
+            16
+          ],
+          "texture": "#Sched"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            9,
+            8.501,
+            16
+          ],
+          "texture": "#Sched"
+        },
+        "east": {
+          "uv": [
+            7.499,
+            9,
+            7.5,
+            16
+          ],
+          "texture": "#Sched"
+        }
+      }
+    },
+    {
+      "__comment": "Box2",
+      "from": [
+        5.5,
+        0,
+        8.5
+      ],
+      "to": [
+        10.5,
+        7,
+        8.626
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5.5,
+            7.499,
+            10.5,
+            7.5
+          ],
+          "texture": "#Sched"
+        },
+        "up": {
+          "uv": [
+            5.5,
+            8.5,
+            10.5,
+            8.500999
+          ],
+          "texture": "#Sched"
+        },
+        "north": {
+          "uv": [
+            2.5,
+            0,
+            3,
+            8
+          ],
+          "texture": "#Sched"
+        },
+        "south": {
+          "uv": [
+            3,
+            0,
+            13.5,
+            16
+          ],
+          "texture": "#Sched"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            9,
+            8.501,
+            16
+          ],
+          "texture": "#Sched"
+        },
+        "east": {
+          "uv": [
+            7.499,
+            9,
+            7.5,
+            16
+          ],
+          "texture": "#Sched"
+        }
+      }
+    },
+    {
+      "__comment": "Box4",
+      "from": [
+        7.875,
+        23,
+        8.75
+      ],
+      "to": [
+        8.126,
+        31,
+        14.75
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2,
+            9.5,
+            2.001,
+            15.5
+          ],
+          "texture": "#texture1"
+        },
+        "up": {
+          "uv": [
+            1.5,
+            10,
+            1.501,
+            16
+          ],
+          "texture": "#texture1"
+        },
+        "north": {
+          "uv": [
+            1.5,
+            2,
+            2,
+            13.5
+          ],
+          "texture": "#texture1"
+        },
+        "south": {
+          "uv": [
+            1.5,
+            2,
+            2,
+            13.5
+          ],
+          "texture": "#texture1"
+        },
+        "west": {
+          "uv": [
+            3,
+            0.5,
+            13,
+            16
+          ],
+          "texture": "#texture1"
+        },
+        "east": {
+          "uv": [
+            3,
+            0.5,
+            13,
+            16
+          ],
+          "texture": "#texture1"
+        }
+      }
+    }
+  ]
+}

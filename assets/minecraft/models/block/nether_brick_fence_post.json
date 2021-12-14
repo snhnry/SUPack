@@ -1,0 +1,80 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "block/iron_block",
+    "texture": "block/iron_block"
+  },
+  "elements": [
+    {
+      "__comment": "Center_post",
+      "from": [
+        6.5,
+        0,
+        6.5
+      ],
+      "to": [
+        9.5,
+        16,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            1.5,
+            13,
+            5.5
+          ],
+          "texture": "#texture",
+          "cullface": "down"
+        },
+        "up": {
+          "uv": [
+            9,
+            1.5,
+            13,
+            5.5
+          ],
+          "texture": "#texture",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            8,
+            0,
+            14.5,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            14.5,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8.5,
+            0,
+            13.5,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            0,
+            13.5,
+            16
+          ],
+          "texture": "#texture"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+	"__comment": "Designed by Snhnry with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "block/cyan_terracotta",
+		"texture": "block/gregrosepic"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Box1",
+			"from": [ 7.5, 0.25, 3 ],
+			"to": [ 8, 6.75, 12 ],
+			"rotation": { "origin": [ 7.5, 0.25, 3 ], "axis": "z", "angle": -22.5 },
+			"faces": {
+				"down": { "uv": [ 3, 9.5, 4, 10.5 ], "texture": "#texture" },
+				"up": { "uv": [ 3, 9.5, 4, 10.5 ], "texture": "#texture" },
+				"north": { "uv": [ 5.5, 9.5, 6.5, 10.5 ], "texture": "#texture" },
+				"south": { "uv": [ 15.5, 0.7529297, 16, 10.54102 ], "texture": "#texture" },
+				"west": { "uv": [ 0.5, 0.5, 15.5, 10.5 ], "texture": "#texture" },
+				"east": { "uv": [ 0.5, 11.5, 7, 15.5 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Box4",
+			"from": [ 10.875, 0, 6.5 ],
+			"to": [ 11.075, 4, 8.5 ],
+			"rotation": { "origin": [ 10.875, 0, 6.5 ], "axis": "z", "angle": 22.5 },
+			"faces": {
+				"down": { "uv": [ 5.25, 14.05469, 6.25, 15.05469 ], "texture": "#texture" },
+				"up": { "uv": [ 5.25, 14.05469, 6.25, 15.05469 ], "texture": "#texture" },
+				"north": { "uv": [ 5.25, 14.05469, 6.25, 15.05469 ], "texture": "#texture" },
+				"south": { "uv": [ 5.25, 14.05469, 6.25, 15.05469 ], "texture": "#texture" },
+				"west": { "uv": [ 5.25, 14.05469, 6.25, 15.05469 ], "texture": "#texture" },
+				"east": { "uv": [ 1.133858, 11.88878, 2.771654, 13.53297 ], "texture": "#texture", "rotation": 270 }
+			}
+		}
+	]
+}
