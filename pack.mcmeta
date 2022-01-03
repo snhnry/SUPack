@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 6,
+    "pack_format": 7,
     "description": "Beach City - www.tlaminecraft.com"
   },
   "language": {
@@ -9,8 +9,5 @@
       "region": "Country/region name",
       "bidirectional": false
     }
-  },
-  "meta": {
-    "game_version": "1.16.5"
   }
 }
