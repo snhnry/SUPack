@@ -111,7 +111,7 @@
     },
     {
       "apply": {
-        "model": "mossy_cobblestone_wall_facingwall.json",
+        "model": "mossy_cobblestone_wall_facingwall",
         "uvlock": true
       },
       "when": {
