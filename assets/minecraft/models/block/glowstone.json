@@ -2,9 +2,9 @@
 	"credit": "By Snhnry",
 	"ambientocclusion": false,
 	"textures": {
+		"2": "block/sun",
 		"particle": "block/iron_block",
 		"texture": "block/iron_block",
-		"sun": "environment/sun",
 		"glass_silver": "block/glass"
 	},
 	"elements": [
@@ -181,12 +181,12 @@
 			"from": [7, 5, 7],
 			"to": [9, 8, 9],
 			"faces": {
-				"north": {"uv": [7, 6.5, 9, 9.5], "texture": "#sun"},
-				"east": {"uv": [7, 6.5, 9, 9.5], "texture": "#sun"},
-				"south": {"uv": [7, 6.5, 9, 9.5], "texture": "#sun"},
-				"west": {"uv": [7, 6.5, 9, 9.5], "texture": "#sun"},
-				"up": {"uv": [7, 7, 9, 9], "texture": "#sun"},
-				"down": {"uv": [9, 9, 7, 7], "texture": "#sun"}
+				"north": {"uv": [7, 6.5, 9, 9.5], "texture": "#2"},
+				"east": {"uv": [7, 6.5, 9, 9.5], "texture": "#2"},
+				"south": {"uv": [7, 6.5, 9, 9.5], "texture": "#2"},
+				"west": {"uv": [7, 6.5, 9, 9.5], "texture": "#2"},
+				"up": {"uv": [7, 7, 9, 9], "texture": "#2"},
+				"down": {"uv": [9, 9, 7, 7], "texture": "#2"}
 			}
 		},
 		{
