@@ -89,7 +89,8 @@
     {
       "apply": {
         "model": "minecraft:block/mossy_cobblestone_wall_facingdown",
-        "uvlock": true
+        "uvlock": true,
+        "y": 90
       },
       "when": {
         "east": "low",
