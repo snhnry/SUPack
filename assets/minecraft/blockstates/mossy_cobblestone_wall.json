@@ -108,6 +108,17 @@
         "south": "low",
         "up": "false"
       }
-    }   
+    },
+    {
+      "apply": {
+        "model": "mossy_cobblestone_wall_facingwall.json",
+        "uvlock": true
+      },
+      "when": {
+        "east": "low",
+        "west": "low",
+        "up": "true"
+      }
+    }    
   ]
 }
