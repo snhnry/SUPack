@@ -108,18 +108,6 @@
         "south": "low",
         "up": "false"
       }
-    },
-    {
-      "apply": {
-        "model": "minecraft:block/mossy_cobblestone_wall_facingwall",
-        "uvlock": true
-      },
-      "when": {
-        "east": "low",
-        "west": "low",
-        "north": "low",
-        "up": "true"
-      }
-    }    
+    }
   ]
 }
