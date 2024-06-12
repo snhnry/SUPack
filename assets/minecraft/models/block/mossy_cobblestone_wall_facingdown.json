@@ -13,7 +13,7 @@
 			"faces": {
 				"north": {"uv": [5, 0, 11, 4], "rotation": 180, "texture": "#wall"},
 				"east": {"uv": [0, 3, 4, 16], "rotation": 90, "texture": "#wall"},
-				"south": {"uv": [5, 0, 11, 4], "texture": "#wall", "cullface": "down"},
+				"south": {"uv": [5, 0, 11, 4], "texture": "#wall"},
 				"west": {"uv": [0, 3, 4, 16], "rotation": 270, "texture": "#wall"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#wall"},
 				"down": {"uv": [5, 3, 11, 16], "rotation": 180, "texture": "#wall"}
