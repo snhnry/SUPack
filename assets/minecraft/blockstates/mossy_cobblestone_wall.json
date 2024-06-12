@@ -94,7 +94,8 @@
       },
       "when": {
         "east": "low",
-        "west": "low"
+        "west": "low",
+        "up": "false"
       }
     }  
   ]
