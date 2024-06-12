@@ -85,6 +85,17 @@
       "when": {
         "west": "tall"
       }
-    }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/mossy_cobblestone_wall_facingdown",
+        "uvlock": true,
+        "y": 180
+      },
+      "when": {
+        "east": "low",
+        "west": "low"
+      }
+    }  
   ]
 }
