@@ -2392,11 +2392,11 @@
 			"to": [11, 11, 32],
 			"faces": {
 				"north": {"uv": [5, 5, 11, 13], "texture": "#texture"},
-				"east": {"uv": [0, 5, 0, 13], "texture": "#texture"},
+				"east": {"uv": [0, 5, 1, 13], "texture": "#texture"},
 				"south": {"uv": [5, 5, 11, 13], "texture": "#texture"},
-				"west": {"uv": [16, 5, 16, 13], "texture": "#texture"},
-				"up": {"uv": [5, 16, 11, 16], "texture": "#texture"},
-				"down": {"uv": [11, 16, 5, 16], "texture": "#texture"}
+				"west": {"uv": [15, 5, 16, 13], "texture": "#texture"},
+				"up": {"uv": [5, 15, 11, 16], "texture": "#texture"},
+				"down": {"uv": [11, 15, 5, 16], "texture": "#texture"}
 			}
 		},
 		{
