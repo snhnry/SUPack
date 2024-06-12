@@ -2405,10 +2405,10 @@
 			"to": [9.5, 8.25, 31],
 			"faces": {
 				"north": {"uv": [6.5, 7.75, 9.5, 10.25], "texture": "#texture"},
-				"east": {"uv": [0, 7.75, 0, 10.25], "texture": "#texture"},
-				"west": {"uv": [16, 7.75, 16, 10.25], "texture": "#texture"},
-				"up": {"uv": [6.5, 16, 9.5, 16], "texture": "#texture"},
-				"down": {"uv": [9.5, 16, 6.5, 16], "texture": "#texture"}
+				"east": {"uv": [0, 7.75, 0.5, 10.25], "texture": "#texture"},
+				"west": {"uv": [15.5, 7.75, 16, 10.25], "texture": "#texture"},
+				"up": {"uv": [6.5, 15.5, 9.5, 16], "texture": "#texture"},
+				"down": {"uv": [9.5, 15.5, 6.5, 16], "texture": "#texture"}
 			}
 		},
 		{
