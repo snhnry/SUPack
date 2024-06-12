@@ -111,7 +111,7 @@
     },
     {
       "apply": {
-        "model": "mossy_cobblestone_wall_facingwall",
+        "model": "minecraft:block/mossy_cobblestone_wall_facingwall",
         "uvlock": true
       },
       "when": {
