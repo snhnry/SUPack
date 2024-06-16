@@ -1,9 +1,9 @@
 {
 	"credit": "Designed by Snhnry with Cubik Studio - https://cubik.studio",
 	"textures": {
+		"particle": "block/oak_planks_alt",
 		"texture": "block/oak_planks_alt",
-		"texture1": "block/oak_planks",
-		"particle": ""
+		"texture1": "block/oak_planks"
 	},
 	"elements": [
 		{
